@@ -7,7 +7,7 @@ public class BubbleSort {
 	}
 	public static void bubbleSort(ArrayList<Integer> list) {
 		
-	}
+	}//
 	
 	public static int[] randomize(int[] arr) {
 		

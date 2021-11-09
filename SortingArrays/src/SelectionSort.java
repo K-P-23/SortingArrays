@@ -5,7 +5,7 @@ public class SelectionSort {
 	public static void main(String[] args) {
  
  
-	}
+	}//
  
 	public static void insertionSort(int[] elements) {
 		int counter = 0;
